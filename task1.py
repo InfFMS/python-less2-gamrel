@@ -14,3 +14,10 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+c = int(input())
+n=int(1)
+a=int(510)
+l=int(510)
+b=int(0)
+m=int(0)
+while (n < c+1):
