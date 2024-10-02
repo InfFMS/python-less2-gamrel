@@ -1,0 +1,6 @@
+x = int(input())
+y = int(input())
+z = int(input())
+u = int(input())
+if (abs(x-z)==abs(u-y)): print('Yes')
+else: print('No')
